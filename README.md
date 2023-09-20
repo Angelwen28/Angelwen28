@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **morcillo.rowena@gmail.com**
 
-- ⚡ Fun fact: **I have a passion for photography**
+- ⚡ Fun fact: **I have a passion for photography and digital art. I have a medical background**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
