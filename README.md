@@ -3,7 +3,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Angelwen</h1>
-<h3 align="center">A passionate new developer from Canada</h3>
+<h3 align="center">A passionate revolutionary developer from Canada</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=❤️❤️❤️❤️❤️❤️Welcome!;❤️❤️❤️❤️Thanks+for+the+visit.)](https://git.io/typing-svg)
+
 
 ![a1ba2c150d44d387f565a87c54351bf8](https://github.com/Angelwen28/Angelwen28/assets/144964091/68970197-3e3f-448c-8086-8b5d5a12ea37)
 
