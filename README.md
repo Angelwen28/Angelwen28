@@ -13,13 +13,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelwen28&label=Profile%20views&color=0e75b6&style=flat" alt="angelwen28" /> </p>
 
-- 🔭 I’m currently working on **BlackForce Projects**
+- 🔭 I’m involve in **BlackForce Projects at the moment**
 
 - 🌱 My current goal is **to be a SalesForce Tech Consultant**
 
 - 📫 How to reach me **morcillo.rowena@gmail.com**
 
-- ⚡ Fun fact: **I have a passion for photography and digital art. I have a medical background**
+- ⚡ Fun fact: **I have a passion for photography and digital art. I also have a medical background.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
