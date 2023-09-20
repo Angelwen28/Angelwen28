@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **BlackForce Projects**
 
-- 🌱 I’m currently learning **to be a SalesForce Tech Consultant**
+- 🌱 My current goal is **to be a SalesForce Tech Consultant**
 
 - 📫 How to reach me **morcillo.rowena@gmail.com**
 
