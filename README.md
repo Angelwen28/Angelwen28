@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Angelwen</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate new developer from Canada</h3>
 
 ![a1ba2c150d44d387f565a87c54351bf8](https://github.com/Angelwen28/Angelwen28/assets/144964091/68970197-3e3f-448c-8086-8b5d5a12ea37)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **morcillo.rowena@gmail.com**
 
-- ⚡ Fun fact **I have a passion for photography**
+- ⚡ Fun fact: **I have a passion for photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
